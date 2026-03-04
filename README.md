@@ -239,6 +239,7 @@
 
 ## TypeScript Starters/Boilerplates
 
+- [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit)
 - [Microsoft - TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 - [Microsoft - TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter)
 - [Microsoft - TypeScript-Knockout-Starter](https://github.com/Microsoft/TypeScript-Knockout-Starter)
